@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "boxt_ui",
+            "cwd": "clients/boxt_ui",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "boxt_ui (profile mode)",
+            "cwd": "clients/boxt_ui",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "boxt_ui (release mode)",
+            "cwd": "clients/boxt_ui",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "customers",
+            "cwd": "clients/customers",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "customers (profile mode)",
+            "cwd": "clients/customers",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "customers (release mode)",
+            "cwd": "clients/customers",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

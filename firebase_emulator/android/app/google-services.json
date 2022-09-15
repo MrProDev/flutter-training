@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867409121051",
+    "project_id": "fir-emulators-bb94c",
+    "storage_bucket": "fir-emulators-bb94c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867409121051:android:860415e8b7df63fe7bcdbe",
+        "android_client_info": {
+          "package_name": "com.example.firebase_emulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867409121051-5r6ralp5i0rb8ub1tkm45sa9ndbbha93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAgm20UH2WK3YgdkZBz6Q2cDgN-p_rUuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867409121051-5r6ralp5i0rb8ub1tkm45sa9ndbbha93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
